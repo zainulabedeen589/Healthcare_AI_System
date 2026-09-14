@@ -1,0 +1,3 @@
+I am unable to push my models on GitHub.
+
+If you run all the jupyter notebook from notebooks folder, so the model create automatically in models folder.
