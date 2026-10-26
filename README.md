@@ -181,7 +181,7 @@ The system works with three core hospital datasets.
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone[ https://github.com/zainulabedeen589/Healthcare_AI_System.git
 
 cd Healthcare
 ```
